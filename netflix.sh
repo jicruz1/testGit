@@ -181,3 +181,4 @@ menu
 read opcio
 printf "\033c"
 done
+echo "Something"
